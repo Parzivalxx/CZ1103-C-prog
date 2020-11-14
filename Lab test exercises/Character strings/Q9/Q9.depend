@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605074400 source:c:\users\wangl\onedrive - nanyang technological university\c\cz1103 (c prog)\lab test exercises\character strings\q9\main.c
+	<stdio.h>
+	<string.h>
+
